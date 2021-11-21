@@ -1,0 +1,23 @@
+{
+  "name": "store_coco",
+  "version": "1.0.0",
+  "description": "store.web",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migo8591/store_web.git"
+  },
+  "author": "Miguel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migo8591/store_web/issues"
+  },
+  "homepage": "https://github.com/migo8591/store_web#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
