@@ -1,0 +1,19 @@
+.jumbotron{
+    background-color: aqua;
+}
+.footer{
+    padding: 10px, 10px, 0 10px;
+    background-color: rgb(173, 141, 206);
+    margin-bottom: 0px;
+    margin-top: 10px;
+
+}
+.card-tienda{
+    flex: 1 350px;
+    padding: 1px 5px 1px 5px;
+    margin-top: 10px;
+}
+.btn-reserve{
+    width: 25%;
+}
+
